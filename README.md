@@ -21,4 +21,4 @@
 
 2. Implementation of Graph with OrderedDict
 
-Implement a simple graph by focusing on the Node class. The graph will be directed and the edges can hold weights. We will have three classes, a State class, a Node class, and finally the Graph class.We're going to be taking advantage of two built-in tools here, OrderDict and Enum.
+    Implement a simple graph by focusing on the Node class. The graph will be directed and the edges can hold weights. We will have three       classes, a State class, a Node class, and finally the Graph class.We're going to be taking advantage of two built-in tools here,           OrderDict and Enum.
