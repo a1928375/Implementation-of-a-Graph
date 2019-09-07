@@ -11,13 +11,13 @@
   
     (3) In order to implement a Graph as an Adjacency List what we need to do is define the methods our Adjacency List object will have:
 
-      (i) Graph() creates a new, empty graph.
-      (ii) addVertex(vert) adds an instance of Vertex to the graph.
-      (iii) addEdge(fromVert, toVert) Adds a new, directed edge to the graph that connects two vertices.
-      (iv) addEdge(fromVert, toVert, weight) Adds a new, weighted, directed edge to the graph that connects two vertices.
-      (v) getVertex(vertKey) finds the vertex in the graph named vertKey.
-      (vi) getVertices() returns the list of all vertices in the graph.
-      (vii) in returns True for a statement of the form vertex in graph, if the given vertex is in the graph, False otherwise.
+        (i) Graph() creates a new, empty graph.
+        (ii) addVertex(vert) adds an instance of Vertex to the graph.
+        (iii) addEdge(fromVert, toVert) Adds a new, directed edge to the graph that connects two vertices.
+        (iv) addEdge(fromVert, toVert, weight) Adds a new, weighted, directed edge to the graph that connects two vertices.
+        (v) getVertex(vertKey) finds the vertex in the graph named vertKey.
+        (vi) getVertices() returns the list of all vertices in the graph.
+        (vii) in returns True for a statement of the form vertex in graph, if the given vertex is in the graph, False otherwise.
 
 2. Implementation of Graph with OrderedDict
 
